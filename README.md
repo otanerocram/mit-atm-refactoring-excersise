@@ -1,4 +1,4 @@
-# MIT React Excersie - Shopping Cart
+# MIT React Excersie - ATM Refactoring
 ![GitHub code size](https://img.shields.io/github/repo-size/otanerocram/mit-atm-refactoring-excersise)
 ![GitHub repo stars](https://img.shields.io/github/stars/otanerocram/mit-atm-refactoring-excersise)
 ![GitHub repo forks](https://img.shields.io/github/forks/otanerocram/mit-atm-refactoring-excersise)
